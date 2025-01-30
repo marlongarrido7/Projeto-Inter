@@ -1,3 +1,4 @@
+```markdown
 # Projeto: Interrupções em Microcontroladores
 
 **Autor do Projeto:**  
@@ -18,6 +19,7 @@ Este projeto faz parte das atividades do **EMBARCATECH 2024/25**.
 7. [Estrutura do Código](#estrutura-do-código)  
 8. [Trecho de Código](#trecho-de-código)  
 9. [Referências](#referências)  
+10. [Demonstração em Vídeo](#demonstração-em-vídeo)
 
 ---
 
@@ -196,3 +198,8 @@ int main() {
 - [Documentação oficial do Microcontrolador RP2040](https://www.raspberrypi.com/documentation/microcontrollers/)  
 
 ---
+
+## Demonstração em Vídeo
+**Explicações e demonstração do funcionamento do código, integração VSCode e Wokwi e na Placa física BitDogLab:**  
+[Link do Vídeo](https://youtu.be/YqCcCaqnhxA)
+```
