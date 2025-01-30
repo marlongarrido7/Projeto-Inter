@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/inter.uf2'
+elf = 'build/inter.elf'
