@@ -1,4 +1,4 @@
-# Projeto: Interrupções em Microcontroladores
+# Uso de Interrupções em Microcontroladores Raspberry Pico W 2040
 
 **Autor do Projeto:**  
 Dr. Marlon da Silva Garrido, Professor Associado IV (CENAMB - PPGEA)  
