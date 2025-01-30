@@ -1,4 +1,3 @@
-```markdown
 # Projeto: Interrupções em Microcontroladores
 
 **Autor do Projeto:**  
