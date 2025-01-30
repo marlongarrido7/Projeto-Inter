@@ -3,9 +3,7 @@
 #include "hardware/irq.h"
 #include "hardware/clocks.h"
 #include "hardware/pio.h"
-#include "inter.pio.h"
-
-// Definições de pinos
+#include "inter.pio.h"// Definições de pinos
 #define WS2812_PIN     7
 #define LED_R_PIN     13
 #define BUTTON_A_PIN   5  // Incrementa
